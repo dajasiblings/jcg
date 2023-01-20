@@ -1038,3 +1038,11 @@ margin: 9px auto;
 padding: 7px 0 0;
 }
 }
+
+input, select, textarea{
+  color: #000000;
+}
+
+textarea:focus, input:focus {
+  color: #000000;
+}
